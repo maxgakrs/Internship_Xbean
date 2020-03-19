@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Lf6",
+    "texture": "4c6466d5-ad18-4b14-abf2-d7aa7693a9af",
+    "atlas": "",
+    "rect": [
+      99,
+      99,
+      57,
+      58
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

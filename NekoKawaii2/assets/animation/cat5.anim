@@ -1,0 +1,141 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "cat5",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "2": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 14
+            },
+            {
+              "frame": 0.48333333333333334,
+              "value": -7.582999999999998
+            },
+            {
+              "frame": 1,
+              "value": 14
+            }
+          ]
+        }
+      },
+      "3": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 32.89500000000001
+            },
+            {
+              "frame": 0.6833333333333333,
+              "value": -38.641999999999996
+            },
+            {
+              "frame": 1.5,
+              "value": 32.89500000000001
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                14.83,
+                36.491,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "5": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 43.831
+            },
+            {
+              "frame": 0.7666666666666667,
+              "value": 64.636
+            },
+            {
+              "frame": 1.5,
+              "value": 43.831
+            }
+          ]
+        }
+      },
+      "6": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": -36
+            },
+            {
+              "frame": 0.75,
+              "value": -14.922
+            },
+            {
+              "frame": 1.5,
+              "value": -36
+            }
+          ]
+        }
+      },
+      "10": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 66.849
+            },
+            {
+              "frame": 0.5,
+              "value": 98.25
+            },
+            {
+              "frame": 1.0166666666666666,
+              "value": 66.849
+            }
+          ]
+        }
+      },
+      "2/7": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": -9.925
+            },
+            {
+              "frame": 0.5166666666666667,
+              "value": 17.073
+            },
+            {
+              "frame": 1,
+              "value": -9.925
+            }
+          ]
+        }
+      }
+    },
+    "props": {
+      "angle": [
+        {
+          "frame": 0,
+          "value": -91.654
+        }
+      ]
+    }
+  },
+  "events": []
+}

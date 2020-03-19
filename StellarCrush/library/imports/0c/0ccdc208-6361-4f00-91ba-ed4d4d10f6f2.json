@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "LogoStellar2",
+    "texture": "ffbc72d8-368a-4a44-9457-fc160205c929",
+    "atlas": "",
+    "rect": [
+      132,
+      61,
+      865,
+      563
+    ],
+    "offset": [
+      24.5,
+      27.5
+    ],
+    "originalSize": [
+      1080,
+      740
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

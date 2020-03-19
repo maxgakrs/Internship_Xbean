@@ -1,0 +1,83 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "cat2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "4": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": -51.897999999999996
+            },
+            {
+              "frame": 0.5,
+              "value": -38.370999999999995
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": -56.333
+            },
+            {
+              "frame": 0.8833333333333333,
+              "value": -56.333
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -32.06,
+                -9.13,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "5": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": -94.981
+            },
+            {
+              "frame": 0.5,
+              "value": -65.51599999999999
+            },
+            {
+              "frame": 1,
+              "value": -94.981
+            }
+          ]
+        }
+      },
+      "6": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": -49.136
+            },
+            {
+              "frame": 0.48333333333333334,
+              "value": -27.67
+            },
+            {
+              "frame": 1,
+              "value": -49.136
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

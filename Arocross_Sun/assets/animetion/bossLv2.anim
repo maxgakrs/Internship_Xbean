@@ -1,0 +1,41 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "bossLv2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 4.533333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            111.059,
+            -138.003,
+            0
+          ]
+        },
+        {
+          "frame": 2.3,
+          "value": [
+            156.595,
+            -138.003,
+            0
+          ]
+        },
+        {
+          "frame": 4.533333333333333,
+          "value": [
+            111.059,
+            -138.003,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

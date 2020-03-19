@@ -1,0 +1,48 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Lv3_skill1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.38333333333333336,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": []
+    },
+    "paths": {
+      "Background": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -7.428,
+                -1.352,
+                0
+              ]
+            },
+            {
+              "frame": 0.2,
+              "value": [
+                -7.428,
+                16.324,
+                0
+              ]
+            },
+            {
+              "frame": 0.38333333333333336,
+              "value": [
+                -7.428,
+                -1.352,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

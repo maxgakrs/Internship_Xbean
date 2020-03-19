@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "purple_S",
+    "texture": "f346a604-3680-449d-9032-d704e9fdeb2d",
+    "atlas": "",
+    "rect": [
+      773,
+      839,
+      3129,
+      2998
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      4675,
+      4676
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

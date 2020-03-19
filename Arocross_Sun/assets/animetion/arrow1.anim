@@ -1,0 +1,41 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "arrow1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.05,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            169.291,
+            472.024,
+            0
+          ]
+        },
+        {
+          "frame": 0.5,
+          "value": [
+            167.24,
+            530.75,
+            0
+          ]
+        },
+        {
+          "frame": 1.05,
+          "value": [
+            169.291,
+            472.024,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}
